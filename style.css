@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    background-image: url("images/backg.jpg");
+    height: 120vh;
+    opacity: 0.69;
+}
+.main2{
+    height: 80vh;
+    width: 100vw;
+    background-color: black;
+}
